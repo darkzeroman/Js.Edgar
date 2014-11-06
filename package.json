@@ -1,6 +1,6 @@
 {
-	"name": "Js.Edgar",
-	"version": "0.0.1",
+	"name": "js.edgar",
+	"version": "0.0.2",
 	"description": "Lightweight Spy/Mock Library for JavaScript",
 	"author": {
 		"name": "Jordan Hawker",
